@@ -1,1 +1,17 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"country_bio":"Antarctica might remind you of endless ice and extreme weather. However, there's a lot to this glacial country than meets the eye. From whale watching to penguin colonies, this destination is like no other. Over the recent years, travelling here offers you with kayaking around Antarctic sea, cruising around Ross Sea, camping under the Antarctic sun and much more!","influencer":"@lozula","fav_destination":"Antarctica"},"geometry":{"type":"Point","coordinates":[89.296875,-71.96538769913127]}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"country_bio": "Antarctica might remind you of endless ice and extreme weather. However, there's a lot to this glacial country than meets the eye. From whale watching to penguin colonies, this destination is like no other. Over the recent years, travelling here offers you with kayaking around Antarctic sea, cruising around Ross Sea, camping under the Antarctic sun and much more!",
+				"influencer": "@lozula",
+				"fav_destination": "Antarctica"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [89.296875, -71.96538769913127]
+			}
+		}
+	]
+}
